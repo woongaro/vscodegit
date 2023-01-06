@@ -4,4 +4,4 @@
 office3
 home4
 office5
-conflict2
+conflict1+2
